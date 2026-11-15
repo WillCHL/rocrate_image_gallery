@@ -8,6 +8,8 @@ Method overview:
 * Create RO-Create template and populate
 * Create image gallery site
 
+More info on RO-Creates: [Introduction to RO-Crate 1.3](https://www.researchobject.org/ro-crate/specification/1.3/introduction.html)
+
 ## Enter EXIF
 
 Additional EXIF data was entered using Adobe Lightroom Classic.
